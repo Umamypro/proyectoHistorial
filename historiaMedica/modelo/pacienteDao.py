@@ -1,4 +1,4 @@
-from os import times_result
+
 from .conexion import ConexionDB
 from tkinter import messagebox
 
